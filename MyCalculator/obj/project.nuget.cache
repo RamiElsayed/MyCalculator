@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3r0DUmjnPBk7C2tMmn88wLr9F+aHgoKt0f3qfBgGAqj3mMYZ+1sWuHx0Q8EdcaNuk40zMK2FFoQ77wapaAMaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramie\\source\\repos\\MyCalculator\\MyCalculator\\MyCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
